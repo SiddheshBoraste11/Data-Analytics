@@ -1,0 +1,30 @@
+LINKEDIN MSG
+
+💼 Message to Working Professionals (for referral)
+
+Hi [Name],
+I hope you’re doing well. I’m a recent BE graduate 
+in Artificial Intelligence and Data Science, exploring 
+Data Analyst opportunities.
+
+I noticed your experience at [Company Name] and would 
+really appreciate any guidance or referral for relevant 
+openings. My skills include SQL, Power BI, Excel, and Python.
+
+Thanks for your time and support!
+
+Best,
+[Your Name]
+--------------------------------------------------------------------------------------------------
+‍💼 Message to Recruiters (for job openings)
+
+Hi [Name],
+I recently graduated with a BE in Artificial Intelligence
+and Data Science and am seeking Data Analyst opportunities.
+
+I have hands-on experience with SQL, Power BI, Excel, and
+Python. Please let me know if there are any openings that fit
+my profile—I’d be happy to share my resume.
+
+Thanks and regards,
+[Your Name]
